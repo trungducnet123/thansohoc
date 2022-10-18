@@ -1,6 +1,6 @@
 baseURL = "https://thansohoc.aicurious.io/"
 languageCode = "vi-vn"
-title = "Xem dự đoán số mệnh qua Thần số học Pythagoras"
+title = "Dự đoán số mệnh qua Thần số học Pythagoras | Kabala NUMEROLOGY"
 
 # directory(s) where your articles are located
 mainSections = ["posts"]
